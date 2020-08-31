@@ -1,6 +1,6 @@
 # The Candy Museum
 
-> The Candy Museum is a website for a candy company. Here cilents can learn about the company story.
+> The Candy Museum is a website for a candy company. Here clients can learn about the company story.
 
 ## Table of contents
 
